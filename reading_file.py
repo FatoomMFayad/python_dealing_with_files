@@ -8,3 +8,4 @@ lines2 = []
 for line in lines:
     lines2.append(line.strip())
 print(lines2)
+f.close()
